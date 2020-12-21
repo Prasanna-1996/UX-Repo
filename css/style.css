@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    background-image: radial-gradient(pink,aqua,white);
+    background-repeat: no-repeat;
+}
+h1{
+    color:navy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+div{
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 2px 5px 0 black;
+    padding:5px;
+    border-radius: 5px;
+    border:2px solid rgb(15, 0, 0 ,0.5);
+    margin: 10px;
+}
+.red{
+    background-color: rgb(59, 3, 3);
+}
+.blue{
+    background-color: rgb(3, 3, 59);
+}
+.green{
+    background-color: rgb(2, 29, 2);
+}
+.yellow{
+    background-color: rgb(65, 65, 7);
+}
+.violet{
+    background-color: rgb(83, 8, 83);
+}
+.pink{
+    background-color:rgb(94, 6, 20);
+}
+.black{
+    background-color: rgb(15, 0, 0);
+}

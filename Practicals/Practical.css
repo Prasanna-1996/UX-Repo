@@ -1,0 +1,22 @@
+body{
+   margin: 0px; 
+}
+
+nav{
+    background-color: rgb(2, 26, 1);
+    min-height: 2em;
+}
+.sec{
+    display: inline;
+}
+.col1{
+    width: 65%;
+}
+.col2{
+    width: 30%;
+    margin-top: -20em;
+    float: right;
+}
+.clear{
+    clear: both;
+}
